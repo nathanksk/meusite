@@ -1,0 +1,44 @@
+.linguas {
+    text-align: center;
+    margin-left: 415px;
+}
+
+.linguas p {
+    font-style: italic;
+}
+
+/*///////////////////////////////////*/
+
+.java {
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    max-width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/*///////////////////////////////////*/
+
+.html {
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    max-width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+/*///////////////////////////////////*/
+
+.css {
+    color: white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+    max-width: 500px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}

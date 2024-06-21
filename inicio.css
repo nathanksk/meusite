@@ -1,0 +1,44 @@
+.caixa1 h1 {
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+
+    padding-bottom: 10px;
+}
+
+.caixa1 p {
+    font-size: 20px;
+    width: 300px;
+
+    padding-left: 522px;
+    padding-top: 10px;
+
+    color: white;
+}
+
+.caixa1 hr {
+    max-width: 300px;
+    margin-left: 522px;
+}
+
+.caixa1 {
+    padding-top: 25px;
+    text-align: center;
+}
+
+/*////////////////////////////////////////////*/
+
+.faixaM img {
+    height: auto;
+    width: 250px;
+    border-radius: 360px;
+}
+
+.faixaM {
+    padding-top: 30px;
+    padding-bottom: 15px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
